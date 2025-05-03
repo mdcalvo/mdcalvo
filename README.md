@@ -15,7 +15,7 @@
 *  Especialista en Reactores Nucleares, Instituto Dan Beninson - CNEA (2007), Buenos Aires - Argentina.
 
 ## Experiencia Laboral:  
-###  Trabajo en CNEA (Buenos Aires - Argentina), desarrollando software en la Gerencia de Reactores y Centrales Nucleares desde Octubre 2007.
+* Trabajo en CNEA (Buenos Aires - Argentina), desarrollando software en la Gerencia de Reactores y Centrales Nucleares desde Octubre 2007.
 ###  Principales desarrollos:
   * Sistema de monitoreo de vibraciones mecánicas en los internos de los reactores de Atucha I (CNA I), Atucha II (CNA II) y Embalse (CNE).
   * Sistema de monitoreo de recambios de elementos combustibles en CNA I y CNA II.
