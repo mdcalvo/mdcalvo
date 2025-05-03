@@ -1,5 +1,7 @@
 ## Hola 👋 soy María Dolores Calvo
 
+Ingeniera senior con más de 10 años de experiencia profesional. 
+
 - ✨ Trabajo en CNEA desde Octubre 2007
 - ✨ División Física Experimental de Reactores
 - ✨ Centro Atómico Constituyentes - Buenos Aires, Argentina
