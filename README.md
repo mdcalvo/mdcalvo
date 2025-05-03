@@ -1,7 +1,7 @@
 ## Hola 👋 soy María Dolores Calvo
 
 Ingeniera senior con más de 15 años de experiencia profesional. 
-📫 mdcalvo@gmail.com
+📫 Contacto: mdcalvo@gmail.com
 
 ## 🛠 Tecnologías y Lenguajes de Programación:
 *   Programación de PLCs (controladores lógicos programables) Allen-Bradley y Siemens. 
