@@ -1,6 +1,6 @@
 ## Hola 👋 soy María Dolores Calvo
 
-Ingeniera senior con más de 15 años de experiencia profesional. 
+Soy Ingeniera senior con más de 15 años de experiencia profesional. 
 📫 Contacto: mdcalvo@gmail.com
 
 ## 🛠 Tecnologías y Lenguajes de Programación:
