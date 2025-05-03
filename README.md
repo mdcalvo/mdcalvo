@@ -1,4 +1,4 @@
-## Hola!! 👋 soy María Dolores Calvo
+## Hola 👋 soy María Dolores Calvo
 
 - ✨ Trabajo en CNEA desde Octubre 2007
 - ✨ División Física Experimental de Reactores
