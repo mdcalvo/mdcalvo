@@ -21,9 +21,8 @@
   * Sistema de monitoreo de recambios de elementos combustibles en CNA I y CNA II.
   * Actualización de software FERCIN-3 para la estimación de parámetros nucleares en reactores experimentales.
   * Desarrollo de aplicaciones web y de bases de datos en Python, para la Gerencia de Reactores y Centrales Nucleares.
-  * Envío de datos de simulación desde un servidor para el sistema de monitoreo de recambios de elementos combustibles en Atucha I.
-  
-## Publicaciones:
+  * Envío de datos de simulación desde un servidor para el sistema de monitoreo de recambios de elementos combustibles en Atucha I.  
+### Publicaciones:
 * Wentzeis L., Calvo M. Manual de Usuario MA-EN-GRYCN-FER-011 Rev. 0. “Programa de Adquisición de Señales para el Monitoreo de las Vibraciones Mecánicas de los Internos del Reactor de CNE, mediante la Técnica de Ruido Neutrónico” (2024).
 * Wentzeis L., Calvo M., Rodríguez Maziere J., Pereyra A., Bonifacio Pulido K. Informe Técnico IN-EN-GRYCN-FER 076 Rev. 0. “Monitoreo de las Vibraciones Mecánicas de los Internos del Reactor de la Central Nuclear Embalse mediante la Técnica de Ruido Neutrónico” (2022).
 * Calvo M., Gómez A. (AATN). Exposición de Trabajo: “Actualización de un Sistema de Adquisición de Datos para la Estimación de Parámetros Nucleares en Reactores de Investigación, mediante la Técnica de Ruido Neutrónico” (2015).
