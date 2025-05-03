@@ -8,7 +8,7 @@ Ingeniera senior con más de 15 años de experiencia profesional.
 *   Lenguajes Python, Delphi, Visual Basic, MATLAB.
 *   Desarrollo web Full-Stack, Python, Java, SQL.
 *   Manejo de repositorios GitHub y GitLab.
-* 
+  
 ### Formación Académica:
 *  Licenciada en Ingeniería de Sistemas, Universidad Privada de Santa Cruz de la Sierra (2001), Santa Cruz - Bolivia.
 *  Especialista en Reactores Nucleares, Instituto Dan Beninson - CNEA (2007), Buenos Aires - Argentina.
