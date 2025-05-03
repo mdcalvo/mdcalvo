@@ -4,9 +4,9 @@ Ingeniera senior con más de 15 años de experiencia profesional.
 📫 Contacto: mdcalvo@gmail.com
 
 ## 🛠 Tecnologías y Lenguajes de Programación:
-*   Programación de PLCs (controladores lógicos programables) Allen-Bradley y Siemens. 
-*   Lenguajes Python, Delphi, Visual Basic, MATLAB.
-*   Desarrollo web Full-Stack, Python, Java, SQL.
+*   Programación de PLCs (controladores lógicos programables y paneles de operador) Allen-Bradley y Siemens. Aplicación en procesos de industrias: petrolera, azucarera, cementera. 
+*   Lenguajes Python, Delphi, Visual Basic, MATLAB. Aplicaciones para monitoreo y estimación de variables físicas en reactores nucleares experimentales y de potencia.
+*   Desarrollo Full-Stack, Python, Java, SQL, frameworks Django y Flask. Aplicaciones web de bases de datos.
 *   Manejo de repositorios GitHub y GitLab.
   
 ### Formación Académica:
